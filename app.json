@@ -25,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/images/little-lemon-logo.png"
-    }
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
   }
 }
